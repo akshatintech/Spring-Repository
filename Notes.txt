@@ -1,0 +1,5 @@
+1. MVC Design Patter : 1.Model-Data 2.View-Presents data to the user 3. Controller : Interface b/wM Model and View
+JSP Exectuion is converted to Servlet > Servlet is used to accept the request > 
+Spring MVC works on CLient Server Architecture > Client Sends the Request and Servers processes the Request  
+CLient Sends the Request to the Front Controller > Controller with the Help of Handler Mapping Transfer the Request to the Controller (Handles the Request ) with the Help of Dao , Services , > Return the Data and Name of the View to the Front Contoller > 
+Front Controller(Dispatcher Servlet)  with the help of View Resolver will decide which View Template to show to the   
